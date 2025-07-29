@@ -1,3 +1,4 @@
+import utils.session
 import os
 import pandas as pd
 from dataframe import LearningLogDataFrame
